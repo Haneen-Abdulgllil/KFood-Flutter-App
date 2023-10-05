@@ -1,0 +1,2 @@
+name project: KFood
+Description projects: This application introduces the most important and most famous Korean dishes, as the application contains recipes, either in the form of articles or videos
